@@ -1,77 +1,77 @@
 <svg height="1182" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1182" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-22 13:58:57 +0000   933405 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-22 13:58:57 +0000     2567 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-22 13:58:57 +0000     1077 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="74">  3.  2017-04-22 13:58:57 +0000     7817 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-22 13:58:57 +0000     2757 bytes  docs/extending_grunt-styleguide.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-22 13:58:57 +0000     1373 bytes  package.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-22 13:58:57 +0000     2206 bytes  tasks/helper/index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-22 13:58:57 +0000     2170 bytes  tasks/lib/kss.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-22 13:58:57 +0000     1521 bytes  tasks/lib/styledocco.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-22 13:58:57 +0000     8259 bytes  tasks/styleguide.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-22 13:58:57 +0000     5210 bytes  templates/kss/index.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-22 13:58:57 +0000     1698 bytes  templates/kss/public/kss.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-22 13:58:57 +0000     3715 bytes  templates/kss/public/kss.less</tspan>
-<tspan x="10" y="234"> 13.  2017-04-22 13:58:57 +0000    44431 bytes  templates/kss/public/less.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-22 13:58:57 +0000     5638 bytes  templates/kss/public/markdown.less</tspan>
-<tspan x="10" y="266"> 15.  2017-04-22 13:58:57 +0000    55889 bytes  templates/kss/public/prettify.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-22 13:58:57 +0000    11620 bytes  test/expected/kss/docs/less/index.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-22 13:58:57 +0000     4434 bytes  test/expected/kss/docs/less/public/kss.css</tspan>
-<tspan x="10" y="314"> 18.  2017-04-22 13:58:57 +0000     1502 bytes  test/expected/kss/docs/less/public/kss.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-22 13:58:57 +0000     3715 bytes  test/expected/kss/docs/less/public/kss.less</tspan>
-<tspan x="10" y="346"> 20.  2017-04-22 13:58:57 +0000    44431 bytes  test/expected/kss/docs/less/public/less.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-22 13:58:57 +0000     5638 bytes  test/expected/kss/docs/less/public/markdown.less</tspan>
-<tspan x="10" y="378"> 22.  2017-04-22 13:58:57 +0000    55889 bytes  test/expected/kss/docs/less/public/prettify.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-22 13:58:57 +0000     2656 bytes  test/expected/kss/docs/less/public/style.css</tspan>
-<tspan x="10" y="410"> 24.  2017-04-22 13:58:57 +0000     6891 bytes  test/expected/kss/docs/less/section-1.html</tspan>
-<tspan x="10" y="426"> 25.  2017-04-22 13:58:57 +0000     8194 bytes  test/expected/kss/docs/less/section-2.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-22 13:58:57 +0000    53533 bytes  test/expected/styledocco/docs/bootstrap/less/com\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 19:34:30 +0000   933405 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 19:34:30 +0000     2567 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 19:34:30 +0000     1077 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 19:34:30 +0000     7817 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 19:34:30 +0000     2757 bytes  docs/extending_grunt-styleguide.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 19:34:30 +0000     1373 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 19:34:30 +0000     2206 bytes  tasks/helper/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 19:34:30 +0000     2170 bytes  tasks/lib/kss.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 19:34:30 +0000     1521 bytes  tasks/lib/styledocco.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 19:34:30 +0000     8259 bytes  tasks/styleguide.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 19:34:30 +0000     5210 bytes  templates/kss/index.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 19:34:30 +0000     1698 bytes  templates/kss/public/kss.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 19:34:30 +0000     3715 bytes  templates/kss/public/kss.less</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 19:34:30 +0000    44431 bytes  templates/kss/public/less.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 19:34:30 +0000     5638 bytes  templates/kss/public/markdown.less</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 19:34:30 +0000    55889 bytes  templates/kss/public/prettify.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 19:34:30 +0000    11620 bytes  test/expected/kss/docs/less/index.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 19:34:30 +0000     4434 bytes  test/expected/kss/docs/less/public/kss.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 19:34:30 +0000     1502 bytes  test/expected/kss/docs/less/public/kss.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 19:34:30 +0000     3715 bytes  test/expected/kss/docs/less/public/kss.less</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 19:34:30 +0000    44431 bytes  test/expected/kss/docs/less/public/less.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 19:34:30 +0000     5638 bytes  test/expected/kss/docs/less/public/markdown.less</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 19:34:30 +0000    55889 bytes  test/expected/kss/docs/less/public/prettify.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 19:34:30 +0000     2656 bytes  test/expected/kss/docs/less/public/style.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 19:34:30 +0000     6891 bytes  test/expected/kss/docs/less/section-1.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 19:34:30 +0000     8194 bytes  test/expected/kss/docs/less/section-2.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 19:34:30 +0000    53533 bytes  test/expected/styledocco/docs/bootstrap/less/com\</tspan>
 <tspan x="10" y="458">ponents-buttons.html</tspan>
-<tspan x="10" y="474"> 27.  2017-04-22 13:58:57 +0000    71577 bytes  test/expected/styledocco/docs/bootstrap/less/com\</tspan>
+<tspan x="10" y="474"> 27.  2017-04-25 19:34:30 +0000    71577 bytes  test/expected/styledocco/docs/bootstrap/less/com\</tspan>
 <tspan x="10" y="490">ponents-mixins.html</tspan>
-<tspan x="10" y="506"> 28.  2017-04-22 13:58:57 +0000    46742 bytes  test/expected/styledocco/docs/bootstrap/less/com\</tspan>
+<tspan x="10" y="506"> 28.  2017-04-25 19:34:30 +0000    46742 bytes  test/expected/styledocco/docs/bootstrap/less/com\</tspan>
 <tspan x="10" y="522">ponents-variables.html</tspan>
-<tspan x="10" y="538"> 29.  2017-04-22 13:58:57 +0000    29017 bytes  test/expected/styledocco/docs/bootstrap/less/ind\</tspan>
+<tspan x="10" y="538"> 29.  2017-04-25 19:34:30 +0000    29017 bytes  test/expected/styledocco/docs/bootstrap/less/ind\</tspan>
 <tspan x="10" y="554">ex.html</tspan>
-<tspan x="10" y="570"> 30.  2017-04-22 13:58:57 +0000    44201 bytes  test/expected/styledocco/docs/bootstrap/less/mai\</tspan>
+<tspan x="10" y="570"> 30.  2017-04-25 19:34:30 +0000    44201 bytes  test/expected/styledocco/docs/bootstrap/less/mai\</tspan>
 <tspan x="10" y="586">n.html</tspan>
-<tspan x="10" y="602"> 31.  2017-04-22 13:58:57 +0000    52553 bytes  test/expected/styledocco/docs/bootstrap/sass/com\</tspan>
+<tspan x="10" y="602"> 31.  2017-04-25 19:34:30 +0000    52553 bytes  test/expected/styledocco/docs/bootstrap/sass/com\</tspan>
 <tspan x="10" y="618">ponents-buttons.html</tspan>
-<tspan x="10" y="634"> 32.  2017-04-22 13:58:57 +0000    65802 bytes  test/expected/styledocco/docs/bootstrap/sass/com\</tspan>
+<tspan x="10" y="634"> 32.  2017-04-25 19:34:30 +0000    65802 bytes  test/expected/styledocco/docs/bootstrap/sass/com\</tspan>
 <tspan x="10" y="650">ponents-mixins.html</tspan>
-<tspan x="10" y="666"> 33.  2017-04-22 13:58:57 +0000    53128 bytes  test/expected/styledocco/docs/bootstrap/sass/com\</tspan>
+<tspan x="10" y="666"> 33.  2017-04-25 19:34:30 +0000    53128 bytes  test/expected/styledocco/docs/bootstrap/sass/com\</tspan>
 <tspan x="10" y="682">ponents-variables.html</tspan>
-<tspan x="10" y="698"> 34.  2017-04-22 13:58:57 +0000    21717 bytes  test/expected/styledocco/docs/bootstrap/sass/ind\</tspan>
+<tspan x="10" y="698"> 34.  2017-04-25 19:34:30 +0000    21717 bytes  test/expected/styledocco/docs/bootstrap/sass/ind\</tspan>
 <tspan x="10" y="714">ex.html</tspan>
-<tspan x="10" y="730"> 35.  2017-04-22 13:58:57 +0000    44056 bytes  test/expected/styledocco/docs/bootstrap/sass/mai\</tspan>
+<tspan x="10" y="730"> 35.  2017-04-25 19:34:30 +0000    44056 bytes  test/expected/styledocco/docs/bootstrap/sass/mai\</tspan>
 <tspan x="10" y="746">n.html</tspan>
-<tspan x="10" y="762"> 36.  2017-04-22 13:58:57 +0000     1778 bytes  test/fixtures/generic/docs/elements/buttons.less</tspan>
-<tspan x="10" y="778"> 37.  2017-04-22 13:58:57 +0000     2220 bytes  test/fixtures/generic/docs/forms/base.less</tspan>
-<tspan x="10" y="794"> 38.  2017-04-22 13:58:57 +0000    68870 bytes  test/fixtures/generic/docs/preview.png</tspan>
-<tspan x="10" y="810"> 39.  2017-04-22 13:58:57 +0000     8421 bytes  test/fixtures/generic/docs/styleguide.md</tspan>
-<tspan x="10" y="826"> 40.  2017-04-22 13:58:57 +0000      309 bytes  test/fixtures/generic/docs/styles.less</tspan>
-<tspan x="10" y="842"> 41.  2017-04-22 13:58:57 +0000     2714 bytes  test/fixtures/styledocco/docs/bootstrap/README.m\</tspan>
+<tspan x="10" y="762"> 36.  2017-04-25 19:34:30 +0000     1778 bytes  test/fixtures/generic/docs/elements/buttons.less</tspan>
+<tspan x="10" y="778"> 37.  2017-04-25 19:34:30 +0000     2220 bytes  test/fixtures/generic/docs/forms/base.less</tspan>
+<tspan x="10" y="794"> 38.  2017-04-25 19:34:30 +0000    68870 bytes  test/fixtures/generic/docs/preview.png</tspan>
+<tspan x="10" y="810"> 39.  2017-04-25 19:34:30 +0000     8421 bytes  test/fixtures/generic/docs/styleguide.md</tspan>
+<tspan x="10" y="826"> 40.  2017-04-25 19:34:30 +0000      309 bytes  test/fixtures/generic/docs/styles.less</tspan>
+<tspan x="10" y="842"> 41.  2017-04-25 19:34:30 +0000     2714 bytes  test/fixtures/styledocco/docs/bootstrap/README.m\</tspan>
 <tspan x="10" y="858">d</tspan>
-<tspan x="10" y="874"> 42.  2017-04-22 13:58:57 +0000     5710 bytes  test/fixtures/styledocco/docs/bootstrap/less/com\</tspan>
+<tspan x="10" y="874"> 42.  2017-04-25 19:34:30 +0000     5710 bytes  test/fixtures/styledocco/docs/bootstrap/less/com\</tspan>
 <tspan x="10" y="890">ponents/buttons.less</tspan>
-<tspan x="10" y="906"> 43.  2017-04-22 13:58:57 +0000    22129 bytes  test/fixtures/styledocco/docs/bootstrap/less/com\</tspan>
+<tspan x="10" y="906"> 43.  2017-04-25 19:34:30 +0000    22129 bytes  test/fixtures/styledocco/docs/bootstrap/less/com\</tspan>
 <tspan x="10" y="922">ponents/mixins.less</tspan>
-<tspan x="10" y="938"> 44.  2017-04-22 13:58:57 +0000     2992 bytes  test/fixtures/styledocco/docs/bootstrap/less/com\</tspan>
+<tspan x="10" y="938"> 44.  2017-04-25 19:34:30 +0000     2992 bytes  test/fixtures/styledocco/docs/bootstrap/less/com\</tspan>
 <tspan x="10" y="954">ponents/variables.less</tspan>
-<tspan x="10" y="970"> 45.  2017-04-22 13:58:57 +0000      324 bytes  test/fixtures/styledocco/docs/bootstrap/less/mai\</tspan>
+<tspan x="10" y="970"> 45.  2017-04-25 19:34:30 +0000      324 bytes  test/fixtures/styledocco/docs/bootstrap/less/mai\</tspan>
 <tspan x="10" y="986">n.less</tspan>
-<tspan x="10" y="1002"> 46.  2017-04-22 13:58:57 +0000     2714 bytes  test/fixtures/styledocco/docs/bootstrap/sass/REA\</tspan>
+<tspan x="10" y="1002"> 46.  2017-04-25 19:34:30 +0000     2714 bytes  test/fixtures/styledocco/docs/bootstrap/sass/REA\</tspan>
 <tspan x="10" y="1018">DME.md</tspan>
-<tspan x="10" y="1034"> 47.  2017-04-22 13:58:57 +0000     6940 bytes  test/fixtures/styledocco/docs/bootstrap/sass/com\</tspan>
+<tspan x="10" y="1034"> 47.  2017-04-25 19:34:30 +0000     6940 bytes  test/fixtures/styledocco/docs/bootstrap/sass/com\</tspan>
 <tspan x="10" y="1050">ponents/_buttons.scss</tspan>
-<tspan x="10" y="1066"> 48.  2017-04-22 13:58:57 +0000    22021 bytes  test/fixtures/styledocco/docs/bootstrap/sass/com\</tspan>
+<tspan x="10" y="1066"> 48.  2017-04-25 19:34:30 +0000    22021 bytes  test/fixtures/styledocco/docs/bootstrap/sass/com\</tspan>
 <tspan x="10" y="1082">ponents/_mixins.scss</tspan>
-<tspan x="10" y="1098"> 49.  2017-04-22 13:58:57 +0000     9664 bytes  test/fixtures/styledocco/docs/bootstrap/sass/com\</tspan>
+<tspan x="10" y="1098"> 49.  2017-04-25 19:34:30 +0000     9664 bytes  test/fixtures/styledocco/docs/bootstrap/sass/com\</tspan>
 <tspan x="10" y="1114">ponents/_variables.scss</tspan>
-<tspan x="10" y="1130"> 50.  2017-04-22 13:58:57 +0000      343 bytes  test/fixtures/styledocco/docs/bootstrap/sass/mai\</tspan>
+<tspan x="10" y="1130"> 50.  2017-04-25 19:34:30 +0000      343 bytes  test/fixtures/styledocco/docs/bootstrap/sass/mai\</tspan>
 <tspan x="10" y="1146">n.scss</tspan>
-<tspan x="10" y="1162"> 51.  2017-04-22 13:58:57 +0000     2632 bytes  test/styleguide_test.js</tspan>
+<tspan x="10" y="1162"> 51.  2017-04-25 19:34:30 +0000     2632 bytes  test/styleguide_test.js</tspan>
 </text>
 </svg>
